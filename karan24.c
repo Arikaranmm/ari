@@ -1,6 +1,7 @@
 #include<stdio.h>
-main()
+void main()
 {
+clrscr();
 int a[100],i,j,n=4,m=2,temp;
 for(i=0;i<n;i++)
 {
