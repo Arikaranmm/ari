@@ -1,6 +1,5 @@
 #include <stdio.h>
 #define MAXSIZE 10
- 
 void main()
 {
     int array[MAXSIZE];
