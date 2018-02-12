@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void) {
+int main()
+{
 	char n;
 	printf("enter the string:",n);
 	scanf("%s",&n);
