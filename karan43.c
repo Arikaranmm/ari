@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int d;
+printf("enter number");
+scanf("%d",&d);
+if(d<10)
+printf("yes");
+else
+{
+printf("no");
+}
+}
