@@ -2,6 +2,7 @@
 #include<string.h>
 int main() 
 {
+	clrscr();
 	char str[30];
 	int n,i;
 	printf("enter the string:");
